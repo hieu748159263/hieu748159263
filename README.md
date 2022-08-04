@@ -21,7 +21,7 @@
 </div>
 <hr/>
 
-### 🎧 What I'm listening
+### 🎧 What I'm listening to
 <div align="center"> 
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21dg5usxfls6uhkeqzmoz7ziq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
