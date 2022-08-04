@@ -35,8 +35,6 @@
 
 <p align="center">
 <a href="https://www.facebook.com/nguyenhoang.hieu.315/"><img src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-<a href="https://www.instagram.com/its_hieungn/"><img src="https://img.icons8.com/clouds/100/000000/instagram-new--v3.png" ></a>
 <a href="https://www.youtube.com/channel/UCrFSYPQc_GjAAXo6pEG3jTw"><img src="https://img.icons8.com/clouds/100/000000/youtube-play.png"  /></a> 
-<a href="https://www.youtube.com/channel/UCrFSYPQc_GjAAXo6pEG3jTw"><img src="https://img.icons8.com/clouds/100/000000/github.png"/></a> 
 </p>
 
