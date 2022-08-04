@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nguyen Hieu👋 </h1>
 
-## 👨‍💻 About me
+### 👨‍💻 About me
 - 🏫 I'm currently a college student at [Hanoi University of Science and Technology](https://en.hust.edu.vn/).
 - 🐍 I'm learning Python and other stuff to become a successful software developer.
 - ⏲️ I'm interested in making educational and productivity apps.
