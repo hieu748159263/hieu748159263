@@ -8,7 +8,7 @@
 - ⛅ I really like looking at the sky and the clouds. They are so spectacular to me.
 <hr/>
 
-## 📈 Github Stats
+### 📈 Github Stats
 <br>
 <div align="center"> 
 
@@ -22,7 +22,7 @@
 </div>
 <hr/>
 
-## 🎧 What I'm listening
+### 🎧 What I'm listening
 <br>
 <div align="center"> 
 
@@ -31,7 +31,7 @@
 </div>
 <hr/>
 
-## 🤝🏻Connect with me
+### 🤝🏻Connect with me
 
 <p align="center">
 <a href="https://www.facebook.com/nguyenhoang.hieu.315/"><img src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
