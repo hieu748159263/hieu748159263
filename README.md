@@ -5,7 +5,6 @@
 - 🐍 I'm learning Python and other stuff to become a successful software developer.
 - ⏲️ I'm interested in making educational and productivity apps.
 - ✨ My hobbies are listening to music and learning about new things. I also have a [Youtube](https://www.youtube.com/channel/UCrFSYPQc_GjAAXo6pEG3jTw) channel where I occasionally post some playlist I make.
-- ⛅ I really like looking at the sky and the clouds. They are so special to me.
 <hr/>
 
 ### 📈 Github Stats
