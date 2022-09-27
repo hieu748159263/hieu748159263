@@ -8,9 +8,6 @@
 <hr/>
 
 ### 📈 Github Stats
-<div align="center"> 
-
-  [![Nguyen Hieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hieu748159263&theme=gotham&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <div align="center"> 
@@ -20,17 +17,9 @@
 </div>
 <hr/>
 
-### 🎧 What I'm listening to
-<div align="center"> 
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21dg5usxfls6uhkeqzmoz7ziq&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-<hr/>
-
 ### 🤝🏻Connect with me
 <p align="center">
 <a href="https://www.facebook.com/nguyenhoang.hieu.315/"><img src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-<a href="https://www.youtube.com/channel/UCrFSYPQc_GjAAXo6pEG3jTw"><img src="https://img.icons8.com/clouds/100/000000/youtube-play.png"  /></a> 
+<a href="https://www.youtube.com/channel/UCrFSYPQc_GjAAXo6pEG3jTw"><img src="https://img.icons8.com/clouds/100/000000/youtube-play.png"/></a> 
 </p>
 
