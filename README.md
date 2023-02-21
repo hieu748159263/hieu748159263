@@ -2,7 +2,6 @@
 
 ### 👨‍💻 About me
 - 🏫 I'm currently a college student at [Hanoi University of Science and Technology](https://en.hust.edu.vn/).
-- 🐍 I'm learning Python and other stuff to become a successful software developer.
 - ⏲️ I'm interested in making educational and productivity apps.
 - ✨ My hobbies are listening to music and learning about new things. I also have a [Youtube](https://www.youtube.com/channel/UCrFSYPQc_GjAAXo6pEG3jTw) channel where I occasionally post some playlist I make.
 <hr/>
@@ -12,7 +11,7 @@
 </div>
 <div align="center"> 
 
-  [![Nguyen Hieu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hieu748159263&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Nguyen Hieu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hieu748159263&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <hr/>
